@@ -1,4 +1,4 @@
-# C&SPal
+# C&SPal Proposal
 
 💻 CSPal is an all-in-one platform for students looking to improve their study and career skills. With CSPal, you will be able to:
 
@@ -22,7 +22,7 @@ CSPal is going to be built using the latest web technologies, including:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3&logoColor=ffffff)
-...TODO
+...More Soon
 
 ## Who it's for
 
@@ -48,4 +48,4 @@ Getting started with CSPal is easy! Simply visit our website and create an accou
 
 ### How do I use my own instance of CSPal?
 
-Follow the instructions on ~todo.md~ to install the dependencies & run our code!
+Follow the instructions on ~todo.md~ (coming soon...) to install the dependencies & run our code!
